@@ -163,6 +163,7 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 #### Overview
 [DeepMind - Deep Reinforcement Learning - RLSS 2017.pdf](https://drive.google.com/file/d/0BzUSSMdMszk6UE5TbWdZekFXSE0/view)<br>
 [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) <br>
+[Gists of Recent Deep RL Algorithms](https://towardsdatascience.com/getting-just-the-gist-of-deep-rl-algorithms-dbffbfdf0dec) <br>
 [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)(Metric-based: Convolutional Siamese Neural Network/Matching Networks/Relation Network; Model-based:Memory-Augmented Neural Networks(MANN); Optimization-Based:Model-Agnostic Meta-Learning(MAML)/Reptile) <br>
 [The Evolution of AlphaGo to MuZero](https://towardsdatascience.com/the-evolution-of-alphago-to-muzero-c2c37306bf9)(AlphaGo-> AlphaGo Zero -> AlphaZero -> MuZero) <br>
 
@@ -181,6 +182,7 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 
 
 ### Overview
+[A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866.pdf) <br>
 [A Survey of Deep Network Solutions for Learning Control in Robotics: From Reinforcement to Imitation](https://arxiv.org/pdf/1612.07139.pdf) <br>
 [Multi-Agent Reinforcement Learning: A Report on Challenges and Approaches](https://arxiv.org/pdf/1807.09427.pdf) <br>
 [Deep Learning for Video Game Playing](https://arxiv.org/pdf/1708.07902.pdf) <br>
