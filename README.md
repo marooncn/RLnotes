@@ -164,7 +164,8 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 [DeepMind - Deep Reinforcement Learning - RLSS 2017.pdf](https://drive.google.com/file/d/0BzUSSMdMszk6UE5TbWdZekFXSE0/view)<br>
 [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) <br>
 [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)(Metric-based: Convolutional Siamese Neural Network/Matching Networks/Relation Network; Model-based:Memory-Augmented Neural Networks(MANN); Optimization-Based:Model-Agnostic Meta-Learning(MAML)/Reptile) <br>
-[The Evolution of AlphaGo to MuZero](https://towardsdatascience.com/the-evolution-of-alphago-to-muzero-c2c37306bf9) <br>
+[The Evolution of AlphaGo to MuZero](https://towardsdatascience.com/the-evolution-of-alphago-to-muzero-c2c37306bf9)(AlphaGo-> AlphaGo Zero -> AlphaZero -> MuZero) <br>
+
 #### Rethink
 [Deep reinforcement learning that matters](https://arxiv.org/pdf/1709.06560.pdf) <br>
 [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html) <br>
