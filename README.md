@@ -156,7 +156,7 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 [AlphaGo Zero demystified](https://dylandjian.github.io/alphago-zero/) <br>
 [World Models applied to Sonic](https://dylandjian.github.io/world-models/) <br>
 #### Tutorial
-[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) <br>
+[Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/the-book-2nd.html) <br>
 [OpenAI Spinning up](https://spinningup.openai.com/en/latest/)  <br>
 [李宏毅：Deep Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/RL%20(v6).pdf) <br>
 [CMU 10703:  Deep Reinforcement Learning and Control ](https://katefvision.github.io/) <br>
