@@ -186,3 +186,4 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 [A Survey of Deep Network Solutions for Learning Control in Robotics: From Reinforcement to Imitation](https://arxiv.org/pdf/1612.07139.pdf) <br>
 [Multi-Agent Reinforcement Learning: A Report on Challenges and Approaches](https://arxiv.org/pdf/1807.09427.pdf) <br>
 [Deep Learning for Video Game Playing](https://arxiv.org/pdf/1708.07902.pdf) <br>
+[Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf) <br>
