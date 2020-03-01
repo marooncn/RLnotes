@@ -95,6 +95,7 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 [TRFL](https://github.com/deepmind/trfl)(DeepMind) <br>
 [Catalyst.RL](https://github.com/catalyst-team/catalyst-rl-framework)(catalyst-team) <br>
 <img alt="RL framework" src="https://github.com/marooncn/learning_note/blob/master/paper%20reading/image/RL%20framework.PNG" width="600"> <br>
+[rlax](https://github.com/deepmind/rlax)(DeepMind, a library built on top of JAX that exposes useful building blocks for implementing reinforcement learning agents.) <br>
 
 ### Manipulation
 [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://arxiv.org/pdf/1802.09564.pdf)([blog](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650739530&idx=4&sn=4b08a6f9253473da9ae2396ca78fae05&chksm=871ad734b06d5e22256df7c21d56d3ecace4170866f7868fcd252daf2848b7f56a890bc04c78&mpshare=1&scene=1&srcid=0319nOHWy1wXHfKTqEm3wXgd&pass_ticket=NFFgROZS%2B2E12ics9enIgh0g9UP35ouHDe07%2FZfe5koayvAfbE5TgsaUjUrsXXLV#rd),DeepMind 2018, few demostrations+PPO+LSTM+GAIL) <br>
@@ -136,6 +137,8 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 [Motion Perception in Reinforcement Learning with Dynamic Objects](https://lmb.informatik.uni-freiburg.de/projects/flowrl/)(arxiv 2019, image + flow rather than stacked images to include motion information) <br>
 [Making  Sense  of  Vision  and  Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks](https://arxiv.org/pdf/1810.10191.pdf)(ICRA 2019) <br>
 
+### Control
+[Assembly robots with optimized control stiffness through reinforcement learning](https://arxiv.org/pdf/2002.12207.pdf)(arxiv 2020, generation of nondiagonal stiffness matrices online for admittance control of contact-rich tasks using deep Q-learning) <br>
 
 ### Others
 [Hacking Google reCAPTCHA v3 using Reinforcement Learning](https://arxiv.org/pdf/1903.01003.pdf)(arxiv 2019, Password cracking) <br>
