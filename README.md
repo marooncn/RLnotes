@@ -140,6 +140,10 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 ### Control
 [Assembly robots with optimized control stiffness through reinforcement learning](https://arxiv.org/pdf/2002.12207.pdf)(arxiv 2020, generation of nondiagonal stiffness matrices online for admittance control of contact-rich tasks using deep Q-learning) <br>
 
+### Transport
+[Flow: Architecture and Benchmarking for Reinforcement Learning in Traffic Control](https://arxiv.org/pdf/1710.05465.pdf)([blog](https://flow-project.github.io/), CoRL 2018, UC Berkerly) <br>
+[IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control](https://faculty.ist.psu.edu/jessieli/Publications/2018-KDD-IntelliLight.pdf)(ACM SIGKDD 2018, psu) <br>
+
 ### Others
 [Hacking Google reCAPTCHA v3 using Reinforcement Learning](https://arxiv.org/pdf/1903.01003.pdf)(arxiv 2019, Password cracking) <br>
 
