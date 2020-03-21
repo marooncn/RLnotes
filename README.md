@@ -168,6 +168,8 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 [OpenAI Spinning up](https://spinningup.openai.com/en/latest/)  <br>
 [李宏毅：Deep Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/RL%20(v6).pdf) <br>
 [CMU 10703:  Deep Reinforcement Learning and Control ](https://katefvision.github.io/) <br>
+[周博磊2020RL课程](https://github.com/zhoubolei/introRL)(br>
+
 #### Overview
 [DeepMind - Deep Reinforcement Learning - RLSS 2017.pdf](https://drive.google.com/file/d/0BzUSSMdMszk6UE5TbWdZekFXSE0/view)<br>
 [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) <br>
