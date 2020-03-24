@@ -114,6 +114,7 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 [Hierarchical Object Detection with Deep Reinforcement Learning](https://imatge-upc.github.io/detection-2016-nipsws/)(NIPS 2016) <br>
 [Crafting a Toolchain for Image Restoration by Deep Reinforcement Learning](http://mmlab.ie.cuhk.edu.hk/projects/RL-Restore/)(CVPR 2018) <br>
 [Emergence of exploratory look-around behaviors through active observation completion](https://robotics.sciencemag.org/content/4/30/eaaw6326/tab-pdf)(Science Robotics 2019) <br>
+[AI Online Filters to Real World Image Recognition](https://arxiv.org/pdf/2002.08242.pdf)(arxiv 2020) <br>
 
 ### Doom
 [ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://arxiv.org/pdf/1605.02097.pdf) <br>
