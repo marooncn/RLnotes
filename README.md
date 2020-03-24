@@ -147,6 +147,7 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 
 ### Others
 [Hacking Google reCAPTCHA v3 using Reinforcement Learning](https://arxiv.org/pdf/1903.01003.pdf)(arxiv 2019, Password cracking) <br>
+[SoftCon: Simulation and Control of Soft-Bodied Animals with Biomimetic Actuators](http://mrl.snu.ac.kr/publications/ProjectSoftCon/SoftCon.html)(SIGGRAPH Asia 2019, Soft-Bodied Animals Control) <br>
 
 ### Blog 
 #### Application
