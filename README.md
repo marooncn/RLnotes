@@ -96,6 +96,7 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 [Catalyst.RL](https://github.com/catalyst-team/catalyst-rl-framework)(catalyst-team) <br>
 <img alt="RL framework" src="https://github.com/marooncn/learning_note/blob/master/paper%20reading/image/RL%20framework.PNG" width="600"> <br>
 [rlax](https://github.com/deepmind/rlax)(DeepMind, a library built on top of JAX that exposes useful building blocks for implementing reinforcement learning agents.) <br>
+[SEED RL](https://github.com/google-research/seed_rl)(Google, Scalable and Efficient Deep-RL with Accelerated Central Inference.) <br>
 
 ### Manipulation
 [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://arxiv.org/pdf/1802.09564.pdf)([blog](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650739530&idx=4&sn=4b08a6f9253473da9ae2396ca78fae05&chksm=871ad734b06d5e22256df7c21d56d3ecace4170866f7868fcd252daf2848b7f56a890bc04c78&mpshare=1&scene=1&srcid=0319nOHWy1wXHfKTqEm3wXgd&pass_ticket=NFFgROZS%2B2E12ics9enIgh0g9UP35ouHDe07%2FZfe5koayvAfbE5TgsaUjUrsXXLV#rd),DeepMind 2018, few demostrations+PPO+LSTM+GAIL) <br>
@@ -146,9 +147,13 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 [Flow: Architecture and Benchmarking for Reinforcement Learning in Traffic Control](https://arxiv.org/pdf/1710.05465.pdf)([blog](https://flow-project.github.io/), CoRL 2018, UC Berkerly) <br>
 [IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control](https://faculty.ist.psu.edu/jessieli/Publications/2018-KDD-IntelliLight.pdf)(ACM SIGKDD 2018, psu) <br>
 
+### Financial
+[RL-Stock](https://github.com/wangshub/RL-Stock) <br>
+
 ### Others
 [Hacking Google reCAPTCHA v3 using Reinforcement Learning](https://arxiv.org/pdf/1903.01003.pdf)(arxiv 2019, Password cracking) <br>
 [SoftCon: Simulation and Control of Soft-Bodied Animals with Biomimetic Actuators](http://mrl.snu.ac.kr/publications/ProjectSoftCon/SoftCon.html)(SIGGRAPH Asia 2019, Soft-Bodied Animals Control) <br>
+
 
 ### Blog 
 #### Application
