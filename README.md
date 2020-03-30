@@ -25,6 +25,7 @@
 [Neural scene representation and rendering](http://science.sciencemag.org/content/360/6394/1204/tab-pdf)([blog](https://deepmind.com/blog/neural-scene-representation-and-rendering/), Science 2018, Generative Query Network (GQN)) <br>
 [World Models](https://arxiv.org/pdf/1803.10122.pdf)([blog](https://dylandjian.github.io/world-models/), NIPS 2018, World Models=Vison model([VAE](http://kvfrans.com/variational-autoencoders-explained/))+Memory(RNN+[MDN](http://blog.otoro.net/2015/11/24/mixture-density-networks-with-tensorflow/))+Compact Controller(CMA-ES), the first known agent to solve OpenAi Gym Race Car, later better solution: [PlaNet](https://planetrl.github.io/)(Google 2019), [Dreamer](https://danijar.com/project/dreamer/)(Google 2020), ( [Self-Attention Agent](https://attentionagent.github.io/)(Google 2020, much fewer parameters)) <br>
 [Reinforcement Learning for Improving Agent Design](https://designrl.github.io/)( Joint learning of policy and structure, Google 2018)<br>
+[Distributed Distributional Deterministic Policy Gradients](https://arxiv.org/pdf/1804.08617.pdf)(ICLR 2018, D4PG, distributional RL+distributed sampling (APEX)+N-step returns+Prioritized Experience Replay (PER)) <br>
 [A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Applications_files/alphazero-science.pdf)(AlphaZero, Science 2018) <br>
 [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/pdf/1911.08265.pdf)(MuZero, DeepMind 2019) <br>
 
