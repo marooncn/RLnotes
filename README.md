@@ -96,7 +96,7 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 [Catalyst.RL](https://github.com/catalyst-team/catalyst-rl-framework)(catalyst-team) <br>
 <img alt="RL framework" src="https://github.com/marooncn/learning_note/blob/master/paper%20reading/image/RL%20framework.PNG" width="600"> <br>
 [rlax](https://github.com/deepmind/rlax)(DeepMind, a library built on top of JAX that exposes useful building blocks for implementing reinforcement learning agents.) <br>
-[Tianshou(天授)](https://github.com/thu-ml/tianshou) <br>
+[Tianshou(天授)](https://github.com/thu-ml/tianshou)(Tsinghua) <br>
 [SEED RL](https://github.com/google-research/seed_rl)(Google, Scalable and Efficient Deep-RL with Accelerated Central Inference.) <br>
 
 ### Manipulation
