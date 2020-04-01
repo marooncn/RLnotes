@@ -28,6 +28,7 @@
 [Distributed Distributional Deterministic Policy Gradients](https://arxiv.org/pdf/1804.08617.pdf)(ICLR 2018, D4PG, distributional RL+distributed sampling (APEX)+N-step returns+Prioritized Experience Replay (PER)) <br>
 [A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Applications_files/alphazero-science.pdf)(AlphaZero, Science 2018) <br>
 [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/pdf/1911.08265.pdf)(MuZero, DeepMind 2019) <br>
+[Agent57: Outperforming the Atari Human Benchmark](https://arxiv.org/pdf/2003.13350.pdf)([blog](https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark), DeepMind 2020, Agent57, the first deep RL agent that outperforms the standard human benchmark on all 57 Atari games) <br>
 
 ### Meta-Learning
 [Learning to reinforcement learn](https://arxiv.org/pdf/1611.05763.pdf)(DeepMind 2017) <br>
