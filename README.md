@@ -206,3 +206,6 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 [Multi-Agent Reinforcement Learning: A Report on Challenges and Approaches](https://arxiv.org/pdf/1807.09427.pdf) <br>
 [Deep Learning for Video Game Playing](https://arxiv.org/pdf/1708.07902.pdf) <br>
 [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf) <br>
+
+### Online demo
+[REINFORCEjs](https://cs.stanford.edu/people/karpathy/reinforcejs/index.html) <br>
