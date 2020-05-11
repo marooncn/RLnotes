@@ -83,6 +83,7 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 [football](https://github.com/google-research/football)(Google 2019) <br>
 [ROBEL](www.roboticsbenchmarks.org)(Google 2019, ROBEL is an open-source platform of cost-effective robots designed for reinforcement learning in the real world)  <br>
 [RLBench](https://github.com/stepjam/RLBench)(Robot Learning Benchmark) <br>
+[highway-env](https://github.com/eleurent/highway-env)(Gym-like autonomous driving env) <br>
 
 ### Implementations
 [OpenAI Baselines](https://github.com/openai/baselines)(OpenAI) <br>
