@@ -150,6 +150,7 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 ### Transport
 [Flow: Architecture and Benchmarking for Reinforcement Learning in Traffic Control](https://arxiv.org/pdf/1710.05465.pdf)([blog](https://flow-project.github.io/), CoRL 2018, UC Berkerly) <br>
 [IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control](https://faculty.ist.psu.edu/jessieli/Publications/2018-KDD-IntelliLight.pdf)(ACM SIGKDD 2018, psu) <br>
+[CityFlow: A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario](https://arxiv.org/pdf/1905.05217.pdf)([blog](https://cityflow-project.github.io/), SJTU) <br>
 
 ### Financial
 [RL-Stock](https://github.com/wangshub/RL-Stock) <br>
