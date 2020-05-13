@@ -146,6 +146,7 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 
 ### Control
 [Assembly robots with optimized control stiffness through reinforcement learning](https://arxiv.org/pdf/2002.12207.pdf)(arxiv 2020, generation of nondiagonal stiffness matrices online for admittance control of contact-rich tasks using deep Q-learning) <br>
+[Inverse Reinforcement Learning with Model Predictive Control](https://ml4ad.github.io/files/papers/Inverse%20Reinforcement%20Learning%20with%20ModelPredictive%20Control.pdf)(NIPS 2019, Baidu) <br>
 
 ### Transport
 [Flow: Architecture and Benchmarking for Reinforcement Learning in Traffic Control](https://arxiv.org/pdf/1710.05465.pdf)([blog](https://flow-project.github.io/), CoRL 2018, UC Berkerly) <br>
