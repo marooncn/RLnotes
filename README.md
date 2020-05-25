@@ -211,6 +211,7 @@ is perhaps often aligned with the objective of seeking novelty.")  <br>
 [Deep Learning for Video Game Playing](https://arxiv.org/pdf/1708.07902.pdf) <br>
 [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf) <br>
 [Comprehensive Review of Deep Reinforcement Learning Methods and Applications in Economics](https://arxiv.org/pdf/2004.01509.pdf) <br>
+[Chip Placement with Deep Reinforcement Learning](https://arxiv.org/pdf/2004.10746.pdf) <br>
 
 ### Online demo
 [REINFORCEjs](https://cs.stanford.edu/people/karpathy/reinforcejs/index.html) <br>
